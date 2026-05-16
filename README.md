@@ -1,5 +1,7 @@
 4つのcsvファイルをマージするスクリプト
 
+案件　NHT2602　用
+
 ヘッダが同じデータ列は縦に、ヘッダが違う列は空白列を挿入して混在しないようにずらす
 
 python merge_csv_colnum_args.py --a a.csv --b b.csv --c c.csv --d d.csv
