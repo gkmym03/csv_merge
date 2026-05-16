@@ -5,5 +5,7 @@
 python merge_csv_colnum_args.py --a a.csv --b b.csv --c c.csv --d d.csv
 
 左から　a,b,c,d　の並びになるようにマージ
+
 idを昇順でソートして出力
+
 ダミーデータ（idが1桁）は削除して出力
